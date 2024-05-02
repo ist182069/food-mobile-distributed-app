@@ -1,6 +1,6 @@
-# FoodIst Android App README
+# [Food IST](https://fenix.tecnico.ulisboa.pt/disciplinas/CMov/2018-2019/2-semestre)
 
-Welcome to [FoodIST](https://fenix.tecnico.ulisboa.pt/disciplinas/CMov/2018-2019/2-semestre), your go-to app for discovering delicious food options around you! 🍔🥗 Real-time information about where to eat at each campus in IST, what is on the menu, and the expected queue time.
+Welcome to FoodIST, your go-to app for discovering delicious food options around you! 🍔🥗 Real-time information about where to eat at each campus in IST, what is on the menu, and the expected queue time.
 
 ## Overview
 FoodIst is a mobile application developed as part of the *Mobile and Ubiquitous Computing* course during the 2nd semester of 2019/2020 semester. Our group, worked diligently to create a comprehensive solution for food enthusiasts. We nailed this project and scored a perfect grade of **20/20**! 🎉
@@ -52,4 +52,5 @@ FoodIst represents our journey into mobile app development, highlighting challen
 Join us as we continue to innovate and create delightful experiences for food enthusiasts worldwide!
 
 Cheers,  
+
 José Brás
